@@ -6,7 +6,7 @@ Released here are the data from Kimmel, D. L., Elsayed, G. F., Cunningham, J. P.
 
 We provide both the raw neural spiking data (see [raw_data](raw_data/)) as well as the processed results (see [results](results/)) for animals "N" and "K" in MATLAB's .mat file format.
 
-Kimmel et al. analyzed these data using the Optimal Targeted Dimensionality Reduction (oTDR) software package, which can be [downloaded](https://github.com/danielkimmel/oTDR) separately. We recommend reviewing the [oTDR demo](https://github.com/danielkimmel/oTDR/test/test_oTDR.m) to familiarize oneself with the data format.
+Kimmel et al. analyzed these data using the [Optimal Targeted Dimensionality Reduction](https://github.com/danielkimmel/oTDR) (oTDR) software package, which can be downloaded separately. We recommend reviewing the [oTDR demo](https://github.com/danielkimmel/oTDR/test/test_oTDR.m) to familiarize oneself with the data format.
 
 
 ## License
